@@ -9,4 +9,4 @@ Platform Engineer in Madrid: Kubernetes, developer platforms, AI in production. 
   - [guardrails for an LLM supportbot](https://ignaciosilvera.com/notes/tribathon-support-assistant)
   - [how TriBathon works](https://ignaciosilvera.com/notes/tribathon-architecture)
 
-CV and contact: [ignaciosilvera.com](https://ignaciosilvera.com) · silveraignacio@gmail.com
+CV and contact: [ignaciosilvera.com](https://ignaciosilvera.com) · me@ignaciosilvera.com
