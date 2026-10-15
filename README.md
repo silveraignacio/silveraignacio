@@ -1,7 +1,12 @@
 ### Ignacio Silvera
 
-Solo founder building **[RivalSweep](https://rivalsweep.com)** — it watches competitors' public pricing, changelog and product pages, diffs every change and keeps the before/after text as evidence. The changes it detects on its own watchlist (Vercel, Cursor, PostHog, Supabase, Linear and others) are public at **[rivalsweep.com/live](https://rivalsweep.com/live)**.
+Platform Engineer in Madrid: Kubernetes, developer platforms, AI in production. 10+ years on Linux systems.
 
-Stack: Django 5 + DRF, Celery, PostgreSQL, Redis, Next.js (App Router), Docker Compose behind Cloudflare, Paddle for billing.
+- Day job: an Internal Developer Platform and 20+ production Kubernetes clusters, with GitOps (ArgoCD, FluxCD), Terraform and Ansible.
+- Side projects: I build and run alone: [TriBathon](https://tribathon.live), a subathon timer for streamers, and [RivalSweep](https://rivalsweep.com), competitor monitoring for B2B SaaS.
+- Writing:
+  - [how RivalSweep's LLM classifier is fenced in](https://ignaciosilvera.com/notes/rivalsweep-llm-classifier)
+  - [guardrails for an LLM supportbot](https://ignaciosilvera.com/notes/tribathon-support-assistant)
+  - [how TriBathon works](https://ignaciosilvera.com/notes/tribathon-architecture)
 
-Based in Spain. Reach me at `support@rivalsweep.com`.
+CV and contact: [ignaciosilvera.com](https://ignaciosilvera.com) · silveraignacio@gmail.com
